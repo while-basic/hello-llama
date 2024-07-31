@@ -95,7 +95,7 @@ export function Chat() {
             ) : (
               <>
                 {`Made by `}
-                <ExternalLink href="https://x.com/holdenmatt">@holdenmatt</ExternalLink>
+                <ExternalLink href="https://x.com/im_mr_chris">@im_mr_chris</ExternalLink>
                 {` using `}
                 <br className="sm:hidden" />
                 <ExternalLink href="https://llama.meta.com/docs/overview">
